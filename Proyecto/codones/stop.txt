@@ -1,0 +1,4 @@
+STOP
+UAA
+UAG
+UGA

@@ -1,0 +1,7 @@
+Arg (Arginina)
+CGU
+CGC
+CGA
+CGG
+AGA
+AGG
